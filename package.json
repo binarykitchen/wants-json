@@ -1,7 +1,7 @@
 {
   "name": "wants-json",
-  "version": "1.0.0",
-  "description": "A tiny ExpressJS middleware to figure out if a JSON response is wanted.",
+  "version": "1.0.1",
+  "description": "Tiny middleware to figure out if a JSON response is expected",
   "main": "index.js",
   "author": {
     "name": "Michael Heuberger",
