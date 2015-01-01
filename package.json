@@ -1,6 +1,6 @@
 {
   "name": "wants-json",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Tiny middleware to figure out if a JSON response is expected",
   "main": "index.js",
   "author": {

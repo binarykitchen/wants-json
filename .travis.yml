@@ -3,6 +3,6 @@ deploy:
   provider: npm
   email: michael.heuberger@binarykitchen.com
   api_key:
-    secure: WQXwSWtvMt/BFuro1Ufxlui6e9tJts9BQ1KQpf9THbr2AMm+bcxanAHQhLvNSD5xeYZdPlWw95HUvHhF/kjTmlkBCNLVDiPFrawnxJa1EOF8+mODhl2OtxdlenJLLyn07aSmbldiP+pMyemOKdmtxEJgIPaVsYwJWCI0Vw/3WCk=
+    secure: YJ3ZUJRHKl6gG1byriwG5bqCNV0gJuA0n2J5Ob30QhJqhnT7Wdrm2M6aPTEPSn13wnO4k7Di/fj3NPtNiATKuR9nyHScTD0Ly1Lqn/vKblw1YHI2nto3VnPU8bqMUDjZGvio7LHUkAHv09Cs5lEHmlT0EWsH3oLhtPidIGd1jOI=
   on:
     repo: binarykitchen/wants-json
