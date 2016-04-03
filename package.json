@@ -1,6 +1,6 @@
 {
   "name": "wants-json",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Tiny middleware to figure out if a JSON response is expected",
   "main": "index.js",
   "author": {
@@ -29,8 +29,8 @@
   ],
   "license": "MIT",
   "devDependencies": {
-    "express": "^4.10.6",
-    "superagent": "^0.21.0",
-    "tape": "^3.0.3"
+    "express": "4.13.4",
+    "superagent": "1.8.3",
+    "tape": "4.5.1"
   }
 }
