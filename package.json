@@ -1,6 +1,6 @@
 {
   "name": "wants-json",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "description": "Tiny middleware to figure out if a JSON response is expected",
   "main": "index.js",
   "author": {
@@ -14,7 +14,6 @@
   },
   "readmeFilename": "README.md",
   "scripts": {
-    "postinstall": "npm prune",
     "test": "tape test/*.js"
   },
   "engines": {
