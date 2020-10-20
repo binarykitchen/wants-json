@@ -1,6 +1,6 @@
 {
   "name": "wants-json",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "description": "Tiny middleware to figure out if a JSON response is expected",
   "main": "dist/wants-json.js",
   "author": {
@@ -35,9 +35,9 @@
   "license": "MIT",
   "devDependencies": {
     "express": "4.17.1",
-    "microbundle": "0.11.0",
-    "standard": "14.0.2",
-    "superagent": "5.1.0",
-    "tape": "4.11.0"
+    "microbundle": "0.12.4",
+    "standard": "14.3.4",
+    "superagent": "6.1.0",
+    "tape": "5.0.1"
   }
 }

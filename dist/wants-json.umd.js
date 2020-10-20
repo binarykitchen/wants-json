@@ -1,2 +1,2 @@
-!function(n,e){"object"==typeof exports&&"undefined"!=typeof module?e():"function"==typeof define&&define.amd?define(e):e()}(0,function(){module.exports=function(){return function(n,e,t){n.wantsJson=function(){return"json"===this.accepts("html","json")},t()}}});
+!function(n){"function"==typeof define&&define.amd?define(n):n()}(function(){module.exports=function(){return function(n,t,e){n.wantsJson=function(){return"json"===this.accepts("html","json")},e()}}});
 //# sourceMappingURL=wants-json.umd.js.map
